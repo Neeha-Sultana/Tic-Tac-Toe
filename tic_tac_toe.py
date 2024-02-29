@@ -24,7 +24,6 @@ def CheckPosition(x):
         return True
     else:
         return False
-
 #This Function Checks player has won or not
 def CheckWin():
     global Game
