@@ -52,7 +52,6 @@ def CheckWin():
     else:
         Game=Running
 
-
 print("Player 1 [X] --- Player 2 [O]\n")
 print()
 print()
