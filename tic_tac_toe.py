@@ -70,7 +70,6 @@ while(Game == Running):
         board[choice] = Mark
         player+=1
         CheckWin()
-
 os.system('cls')
 DrawBoard()
 if(Game==Draw):
