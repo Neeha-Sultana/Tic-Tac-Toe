@@ -81,5 +81,4 @@ elif(Game==Win):
     if(player%2!=0):
         print("Player 1 Won")
     else:
-        print("Player 2 Won")
-        
+        print("Player 2 Won")   
