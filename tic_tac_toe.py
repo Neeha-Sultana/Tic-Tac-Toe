@@ -20,7 +20,6 @@ def DrawBoard():
     print("   |   |   ")
 #This Function Checks position is empty or not
 def CheckPosition(x):
-
     if(board[x] == ' '):
         return True
     else:
