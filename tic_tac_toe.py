@@ -27,7 +27,7 @@ def CheckPosition(x):
 #This Function Checks player has won or not
 def CheckWin():
     global Game
-    
+
     #Horizontal winning condition
     if(board[1] == board[2] and board[2] == board[3] and board[1] != ' '):
         Game = Win
