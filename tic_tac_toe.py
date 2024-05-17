@@ -13,7 +13,6 @@ Game = Running
 Mark = 'X'
 
 
-
 #This Function Draws Game Board
 def DrawBoard():
     print(" %c | %c | %c " % (board[1],board[2],board[3]))
