@@ -9,7 +9,6 @@ Running = 0
 Stop = 1
 ###########################
 Game = Running
-
 Mark = 'X'
 #This Function Draws Game Board
 def DrawBoard():
