@@ -19,7 +19,6 @@ def DrawBoard():
     print(" %c | %c | %c " % (board[7],board[8],board[9]))
     print("   |   |   ")
 
-
 #This Function Checks position is empty or not
 def CheckPosition(x):
     if(board[x] == ' '):
